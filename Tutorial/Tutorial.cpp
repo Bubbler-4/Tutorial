@@ -6,7 +6,7 @@ void awesomeFeature() {
 }
 
 int main() {
-	cout << "This is a Tutorial!" << endl;
+	cout << "This is NOT a Tutorial!" << endl;
 
 	awesomeFeature();
 
